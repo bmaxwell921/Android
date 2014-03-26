@@ -1,0 +1,19 @@
+
+game.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Artemis
+  rotate: false
+  xy: 2, 2
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Astraeus
+  rotate: false
+  xy: 85, 2
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
